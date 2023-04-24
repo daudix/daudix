@@ -1,7 +1,26 @@
-![Current OS](https://img.shields.io/badge/OS-Fedora%20Silverblue%2038-informational?color=%2350a1d9&style=flat&logo=Fedora&logoColor=white)
-![Current DE](https://img.shields.io/badge/DE-GNOME%2044-informational?color=%234a86cf&style=flat&logo=GNOME&logoColor=white)
+<p align="center"> Hello there stranger! welcome to my github profile, I still need to find time to write something here :3</p>
 
-Hello there stranger! welcome to my github profile, I still need to find time to write something here, meantime, astronaut will sit here :3
+<p align="center">
+  <a href="https://liberapay.com/Daudix_UFO">
+    <img src="https://img.shields.io/badge/Liberapay-Donate-F6C915?logo=liberapay">
+  </a>
+  <a href="https://ko-fi.com/daudix_ufo">
+    <img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?logo=kofi">
+  </a>
+  <a href="https://paypal.me/Daudix">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal">
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/OS-Fedora%20Silverblue%2038-informational?color=%2350a1d9&style=flat&logo=Fedora&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/DE-GNOME%2044-informational?color=%234a86cf&style=flat&logo=GNOME&logoColor=white">
+  </a>
+</p>
+<br>
 
 ```
         _..._
@@ -24,7 +43,3 @@ Hello there stranger! welcome to my github profile, I still need to find time to
 
 <!-- [![@daudix_ufo's Holopin board](https://holopin.me/daudix_ufo)](https://holopin.io/@daudix_ufo)
  -->
- 
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8DMH5A)
-
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Daudix_UFO/donate)

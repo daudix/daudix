@@ -22,6 +22,8 @@
 </p>
 <br>
 
+Check out my [Gemini capsule](gemini://daudix.flounder.online)
+
 ```
         _..._
       .'     '.      _

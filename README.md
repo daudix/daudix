@@ -22,7 +22,7 @@
 </p>
 <br>
 
-Check out my [Gemini capsule](gemini://daudix.flounder.online)
+Check out my [Gemini capsule](https://daudix.flounder.online)
 
 ```
         _..._

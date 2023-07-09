@@ -1,3 +1,6 @@
+> **Note**
+> All my personal repositories has been moved to [Codeberg](https://codeberg.org/daudix-UFO), all future work will continue there. I will continue using GitHub, but not for personal projects
+
 <p align="center"> Hello there stranger! welcome to my github profile, I still need to find time to write something here :3</p>
 
 <p align="center">

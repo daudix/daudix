@@ -1,4 +1,4 @@
-Hello there stranger! welcome to my Codeberg profile :3
+Hello there stranger! welcome to my GitHub profile :3
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 

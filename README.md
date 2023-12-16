@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> All my personal repositories has been moved to the [Codeberg](https://codeberg.org/daudix-UFO), all future work will continue there. I will continue using GitHub just like before, but not for personal projects :)
+
 Hello there stranger! welcome to my GitHub profile :3
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)

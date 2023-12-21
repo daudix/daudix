@@ -12,7 +12,7 @@ Hello there stranger! welcome to my GitHub profile :3
 [![Liberapay](https://img.shields.io/badge/Liberapay-Donate-F6C915?logo=liberapay)](https://liberapay.com/daudix)
 [![Paypal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal)](https://paypal.me/Daudix)
 
-Check out my [Website](https://daudix.exozy.me) and [Gemini capsule](https://daudix.flounder.online)
+Check out my [Website](https://daudix.codeberg.page) and [Gemini capsule](https://daudix.flounder.online)
 
 ```
         _..._

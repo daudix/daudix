@@ -8,6 +8,6 @@ Welcome, welcome to ~~City 17~~ Daudix's Codeberg profile.
 [![Current DE](https://img.shields.io/badge/DE-GNOME%2046-informational?color=%234a86cf&style=flat&logo=GNOME&logoColor=white)](https://www.gnome.org)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-informational?color=%23c061cb&style=flat)](https://daudix.codeberg.page/coffee)
 
-Check out my [site](https://daudix.one), it's where I tell about myself and blog about variety of things.
+Check out my [website](https://daudix.one), it's where I tell about myself and blog about variety of things.
 
 ![banner](https://files.catbox.moe/lj6cij.png)

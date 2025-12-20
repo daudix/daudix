@@ -4,7 +4,6 @@
 Welcome, welcome to ~~City 17~~ Daudix's GitHub profile.
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
-[![Current OS](https://img.shields.io/badge/OS-elementary%20OS%208-informational?color=%2364BAFF&style=flat&logo=elementary&logoColor=white)](https://elementary.io)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-informational?color=%23c061cb&style=flat)](https://daudix.one/coffee/)
 
 Check out my [website](https://daudix.one), it's where I tell about myself and blog about variety of things.
